@@ -1,4 +1,4 @@
-<h2>Hey there, I'm Niranjan! </h2>
+<h2>Hey there, I'm Naveen! </h2>
 
 <img align="left" src='Assets\Chespin.gif' width="300">
 
